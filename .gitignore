@@ -1,0 +1,21 @@
+client_secrets.json
+mycreds.txt
+settings.yaml
+notepad_groups
+strategy.py
+sp_server.py
+.vscode
+.ipynb_checkpoints
+.idea
+.spyderproject
+*.pyc
+**/IPython Notebooks
+**/dll
+**/Previous_Gen
+**/input
+**/output
+**/diamond
+**/Log
+**/docs
+**/excel
+**/utils/driver
